@@ -1,0 +1,20 @@
+{
+  "name": "loco",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "aomgloco <754621353@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
